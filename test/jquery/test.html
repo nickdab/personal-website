@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<head>
+		<script src="jquery.js" type="text/javascript" ></script>
+		<script type="text/javascript">
+		$(document).ready(function()
+		{
+			$("a").click(function(event)
+			{
+				alert("As you can see, the link no longer takes you to the correct site.");
+				event.preventDefault();
+			});
+		});
+		
+		</script>
+	</head>
+	
+	<body>
+		<a href = "http://jquery.com">Jquery</a>
+	</body>
+</html>

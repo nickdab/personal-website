@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+
+	<paragraph>
+		<type>primary</type>
+		<body>Hope</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>It was raining pretty hard out there. I was looking around for her, I think. I was drenched.</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>I went back inside, ordered another coffee. She still didn't show up. Actually, I never saw her again.</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>I miss her. Even today I miss her. Without her, sometimes I feel like my apartment is my cell. Like when I'm driving to work, I'm on a treadmill. I just keep doing the same thing, every day, going nowhere but still taking the steps. Sometimes I feel ok. But sometimes, especially when it's late at night, and I'm just lying there, listening to that rain hitting the window--she's there again.</body>
+	</paragraph>
+
+</text>

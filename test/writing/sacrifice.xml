@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+	<paragraph>
+		<type>primary</type>
+		<body>Sacrifice</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[by pulsing beat<br/>
+of tribal song<br/>
+our cup held high<br/>
+for blood we long]]></body>
+	</paragraph>
+		
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[rapturous chorus<br/>
+sweet sleep we live<br/>
+by pale moon fog<br/>
+a life to give]]></body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[sweet siren song<br/>
+might fool anyone]]></body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[sweet siren song<br/>
+might fool anyone]]></body>
+	</paragraph>
+	
+</text>

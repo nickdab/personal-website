@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+	<paragraph>
+		<type>primary</type>
+		<body>Gone Coastal</body>
+	</paragraph>
+
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[The wave reached its peak. Curling,<br/>
+it crashed on the black stone.<br/><br/>
+
+We sat--legs dangling off walls edge--watching.<br/><br/>
+
+The whispering waves spoke their prophetic secrets,<br/>
+and we saw ourselves reflected in the pool.<br/>
+Clearer during high tide but ever-present nonetheless<br/>
+when the sea was low, wet sand slightly exposed.]]></body>
+	</paragraph>
+	
+</text>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+	<paragraph>
+		<type>primary</type>
+		<body>Sacrifice</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>by pulsing beat</body>
+		<body>of tribal song</body>
+		<body>our cup held high</body>
+		<body>for blood we long</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>rapturous chorus</body>
+		<body>sweet sleep we live</body>
+		<body>by pale moon fog</body>
+		<body>a life to give</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>sweet siren song</body>
+		<body>might fool anyone</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>sweet siren song</body>
+		<body>might fool anyone</body>
+	</paragraph>	
+	
+</text>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+
+	<paragraph>
+		<type>primary</type>
+		<body>Texas</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>Today is my last full day in Dallas. Actually, I was suppossed to leave today, but that didn't quite work out. We were here to visit my brother, Jon. Honestly, other than that, I thought I would be very ready to go when the time came. So imagine my surprise when I noticed myself feeling a twinge of--what was that?--yes, I believe sadness at leaving.</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>Of course, I expected to be a little bit sad. My brother is several states away now, and visiting him has really hit that fact home for me. But I will also miss this city. I couldn't believe myself when I found out I don't hate it here. The food is really nice, as are the people. There is great shopping, and wonderful weather. It really isn't bad at all.</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>Whether it was watching my brother rock at soccer (video to come soon!), going to the mall, or just sitting in the hotel watching TV, I'm sad to see this spring break go. Which, actually, is a very good thing.</body>
+	</paragraph>		
+	
+	<paragraph>
+		<type>secondary</type>
+		<body>So, I expect to come back here soon. I'm happy to be returning to Lawrence, but I can't wait for the time that I get to come back here to visit again. It has been a truly wonderful experience.</body>
+	</paragraph>
+
+</text>

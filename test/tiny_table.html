@@ -1,0 +1,59 @@
+<HTML>
+	<HEAD>
+		<TITLE>tiny table</TITLE>
+
+		<script>
+			function showNodes()
+			{
+				//get the rootElement of the document (HTML tag)
+				var rootElement = document.documentElement;
+				
+				//get the rootElement's children (HEAD and BODY)
+				var docNodes = rootElement.childNodes;
+
+				//show the node name for the children
+				for (i = 0; i < docNodes.length; i++)
+				{
+					alert(docNodes[i].nodeName);
+				}
+
+				//get the table cells; this returns an array of all TD's
+				var myTableCells = document.getElementsByTagName("td");
+				for (i = 0; i<myTableCells.length; i++)
+				{
+					alert(myTableCells[i].nodeName);
+				}
+
+			}
+			
+			function changeTDNodes()
+			{
+				//There can be many "tr" elements. Just return the first one
+				var mycurrent_row = document.getElementsByTagName("tr")[0];
+				
+				//Create a new "td" element
+				mycurrent_cell = document.createElement("td");
+				
+				//add text to the new element
+				currenttext = document.createTextNode("New cell3 here!");
+
+				//append text node to td element
+				mycurrent_cell.appendChild(currenttext);
+				
+				//append td element to row
+				mycurrent_row.appendChild(mycurrent_cell);
+			}
+		</script>			
+	</HEAD>
+	
+	<BODY onLoad = "showNodes(); changeTDNodes();">
+		<TABLE>
+			<TBODY>
+				<TR>
+					<TD>CELL 1</TD>
+					<TD>CELL 2</TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+	</BODY>
+</HTML>

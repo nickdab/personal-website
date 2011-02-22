@@ -1,0 +1,38 @@
+<picture>
+	<location>http://www.lifeandtimes.me/Life_and_Times_Title.jpg</location>
+	<id>title</id>
+	<map>
+		<name>links</name>
+		<id>links</id>
+	
+		<area>
+			<shape>rect</shape>
+			<coords>0,100,40,120</coords>
+			<link>http://www.lifeandtimes.me/index.html</link>
+			<alt>Index</alt>
+		</area>
+	
+		<area>
+			<shape>rect</shape>
+			<coords>50, 100, 90, 120</coords>
+			<link>http://www.lifeandtimes.me/prose/prose.html</link>
+			<alt>prose</alt>
+		</area>
+
+		<area>
+			<shape>rect</shape>
+			<coords>100, 100, 155, 120</coords>
+			<link>http://www.lifeandtimes.me/writing/writing.html</link>
+			<alt>Writing</alt>
+		</area>
+
+		<area>
+			<shape>rect</shape>
+			<coords>165, 100, 215, 120</coords>
+			<link>http://www.lifeandtimes.me/videos/videos.html</link>
+			<alt>Videos</alt>
+		</area>
+	</map>	
+</picture>
+
+

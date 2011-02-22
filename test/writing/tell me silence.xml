@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+	
+	<paragraph> 
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+	<paragraph>
+		<type>primary</type>
+		<body>Tell Me Silence</body>
+	</paragraph>
+	
+	<paragraph>
+		<type>secondary</type>
+		<body><![CDATA[tell me silence<br/>
+so I can know<br/><br/>
+
+burn me fire<br/>
+and in your glow<br/><br/>
+
+the whispering wind<br/>
+will let me show<br/><br/>
+
+endless nights<br/>
+bring us close<br/><br/>
+
+but in the day<br/>
+we will go<br/><br/>
+
+summers life<br/>
+is at its end<br/><br/>
+
+autumns death<br/>
+now here begins<br/><br/>
+
+so let us not<br/>
+sleep through the cold<br/><br/>
+
+but work to live<br/>
+keep close whats told<br/><br/>
+
+from mothers breast<br/>
+and fathers hand<br/><br/>
+
+we've been given<br/>
+to this land<br/><br/>
+
+coyotes yell will<br/>
+tell us still<br/><br/>
+
+and eagles scream<br/>
+hard and shrill<br/><br/>
+
+she is not ours<br/>
+to keep or kill<br/><br/>
+
+but we are hers<br/>
+with love to fill]]></body>
+	</paragraph>
+
+</text>

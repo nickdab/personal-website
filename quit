@@ -1,0 +1,130 @@
+First Commit of full website
+2/22/2011
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .hcc.thumbs/.hcc.Life_and_Times_Title.jpg+t
+#	new file:   .hcc.thumbs/.hcc.writing+gone coastal.jpg+t
+#	new file:   .hcc.thumbs/.hcc.writing+tell me silence.jpg+t
+#	new file:   Life and Times Title.jpg
+#	new file:   Life_and_Times_Title.jpg
+#	new file:   _hcc_thumbs/Life and Times Title.jpg-thumb-80.jpg
+#	new file:   blog.html
+#	new file:   cgi/gdform.cgi
+#	new file:   cgi/gdformssl.cgi
+#	new file:   dallas_march_21_2010.xml
+#	new file:   favicon.ico
+#	new file:   gdform.php
+#	new file:   google7ebb49b4ed42fe30.html
+#	new file:   index.php
+#	new file:   interactive.js
+#	new file:   it_was_raining.xml
+#	new file:   jquery.js
+#	new file:   main.css
+#	new file:   missing.html
+#	new file:   new/Logo.ai
+#	new file:   new/Logo.jpg
+#	new file:   new/favicon.ico
+#	new file:   new/index.php
+#	new file:   new/logo.xml
+#	new file:   new/main.css
+#	new file:   new/new_title.ai
+#	new file:   new/new_title.jpg
+#	new file:   new/new_title.png
+#	new file:   new/new_title.tif
+#	new file:   new/title.xml
+#	new file:   new/welcome.xml
+#	new file:   new/xml.php
+#	new file:   prose/dallas_march_21_2010.xml
+#	new file:   prose/good_evening.xml
+#	new file:   prose/it_was_raining.xml
+#	new file:   prose/prose.php
+#	new file:   prose/prose_alt.php
+#	new file:   prose/xml.php
+#	new file:   stats/.htaccess
+#	new file:   stats/BROWSERREP.html
+#	new file:   stats/BROWSERSUM.html
+#	new file:   stats/BROWSERSUM_bar.png
+#	new file:   stats/DAILYREP.html
+#	new file:   stats/DAILYREP_lines3d.png
+#	new file:   stats/DAILYSUM.html
+#	new file:   stats/DAILYSUM_lines3d.png
+#	new file:   stats/DIRECTORY.html
+#	new file:   stats/DIRECTORY_bar.png
+#	new file:   stats/FAILHOST.html
+#	new file:   stats/FAILREF.html
+#	new file:   stats/FAILURE.html
+#	new file:   stats/FILETYPE.html
+#	new file:   stats/FILETYPE_bar.png
+#	new file:   stats/GENERAL.html
+#	new file:   stats/HOST.html
+#	new file:   stats/HOURLYREP.html
+#	new file:   stats/HOURLYREP_lines3d.png
+#	new file:   stats/HOURLYSUM.html
+#	new file:   stats/HOURLYSUM_lines3d.png
+#	new file:   stats/MONTHLY.html
+#	new file:   stats/MONTHLY_bar3d.png
+#	new file:   stats/OSREP.html
+#	new file:   stats/QUARTERLY.html
+#	new file:   stats/QUARTERLY_line.png
+#	new file:   stats/REFERRER.html
+#	new file:   stats/REFSITE.html
+#	new file:   stats/REQUEST.html
+#	new file:   stats/SEARCHQUERY.html
+#	new file:   stats/SEARCHWORD.html
+#	new file:   stats/SIZE.html
+#	new file:   stats/SIZE_bar.png
+#	new file:   stats/STATUS.html
+#	new file:   stats/WEEKLY.html
+#	new file:   stats/WEEKLY_lines3d.png
+#	new file:   stats/YEARLY.html
+#	new file:   stats/YEARLY_line.png
+#	new file:   stats/index.html
+#	new file:   stats/logs/ex20100927000001-97.74.215.41.newlog
+#	new file:   stats/logs/logarchive.10_06.zip
+#	new file:   stats/logs/logarchive.10_07.zip
+#	new file:   stats/logs/logarchive.10_08.zip
+#	new file:   stats/logs/logarchive.10_09.zip
+#	new file:   stats/navfile.html
+#	new file:   test/PHP/sacrifice.xml
+#	new file:   test/PHP/test.php
+#	new file:   test/PHP/title.xml
+#	new file:   test/PHP/xml.php
+#	new file:   test/dhtmltest.html
+#	new file:   test/helloworld.js
+#	new file:   test/jquery/jquery.js
+#	new file:   test/jquery/test.html
+#	new file:   test/jquery/test.js
+#	new file:   test/jstest.html
+#	new file:   test/tiny_table.html
+#	new file:   test/writing/gone coastal.xml
+#	new file:   test/writing/sacrifice.xml
+#	new file:   test/writing/tell me silence.xml
+#	new file:   test/writing/writing.html
+#	new file:   test/xml/sacrifice.xml
+#	new file:   test/xml/test.html
+#	new file:   test/xml/xml.js
+#	new file:   title.xml
+#	new file:   videos/.~lock.videos.html#
+#	new file:   videos/Nick_Ethan_Colby_J488.xml
+#	new file:   videos/Nick_Olivia_Hilary_J488.xml
+#	new file:   videos/videos.php
+#	new file:   videos/xml.php
+#	new file:   webformmailer.php
+#	new file:   welcome.html
+#	new file:   welcome.xml
+#	new file:   writing/gone coastal.jpg
+#	new file:   writing/gone coastal.xml
+#	new file:   writing/sacrifice.xml
+#	new file:   writing/tell me silence.jpg
+#	new file:   writing/tell me silence.xml
+#	new file:   writing/writing.php
+#	new file:   writing/writing_alt.php
+#	new file:   writing/xml.php
+#	new file:   xml.js
+#	new file:   xml.php
+
+#

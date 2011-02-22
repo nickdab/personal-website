@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--format:
+<text>
+	<paragraph>
+		<type> (primary, secondary)</type>
+		<body>(blah blah blah)</body>
+	</paragraph>
+
+	<paragraph>
+		etc...
+	</paragraph>
+</text>
+!-->
+
+<text>
+	<paragraph>
+		<type>primary</type>
+		<body>Tell Me Silence</body>
+	</paragraph>
+
+	<paragraph>
+		<type>secondary</type>
+		<body>tell me silence</body>
+        <body>so I can know</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>burn me fire</body>
+        <body>and in your glow</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>the whispering wind</body>
+        <body>will let me show</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>endless nights</body>
+        <body>bring us close</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>but in the day</body>
+        <body>we will go</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>summers life</body>
+        <body>is at its end</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>autumns death</body>
+        <body>now here begins</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>so let us not</body>
+        <body>sleep through the cold</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>but work to live</body>
+        <body>keep close whats told</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>from mothers breast</body>
+        <body>and fathers hand</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>we've been given</body>
+        <body>to this land</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>coyotes yell will</body>
+        <body>tell us still</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>and eagles scream</body>
+        <body>hard and shrill</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>she is not ours</body>
+        <body>to keep or kill</body>
+    </paragraph>
+
+    <paragraph>
+        <type>secondary</type>
+        <body>but we are hers</body>
+        <body>with love to fill</body>
+	</paragraph>
+
+</text>

@@ -1,0 +1,106 @@
+<html lang = "en">
+	<HEAD>
+		<TITLE>DHTML Test</TITLE>
+		
+		<STYLE TYPE = "text/css">
+			body 
+			{
+				font: 14px arial;
+				color: #000066;
+			}
+			
+			#myText
+			{
+				position:absolute;
+				top: 100px;
+				left: 400px;
+				font: 24px arial;
+				font-weight: 900;
+			}
+		</STYLE>
+
+		<SCRIPT LANGUAGE = "Javascript" TYPE = "TEXT/JAVASCRIPT">
+			
+			var texttop = 100;
+			var textleft = 400;
+			
+			function vanish(flag)
+			{
+				var myObj = new getObj('myText');
+				myObj.style.visibility = (flag) ? 'hidden' : 'visible'
+			}
+
+			function moveUpDown(amount)
+			{
+				var myObj = new getObj('myText');
+				texttop += amount;
+				myObj.style.top = texttop;
+			}
+			
+			function moveLeftRight(amount)
+			{
+				var myObj = new getObj('myText');
+				textleft += amount;
+				myObj.style.left = textleft;
+			}
+
+			function changeColor(color)
+			{
+				var myObj = new getObj('myText');
+				myObj.style.color = color;
+			}
+			
+			function changeStyle(style)
+			{
+				var myObj = new getObj('myText');
+				myObj.style.fontStyle = style;
+			}
+
+			//"myText" is passed in as name
+			function getObj(name)
+			{
+				if (document.getElementById)
+				{
+					this.obj = document.getElementById(name);
+					this.style = document.getElementById(name).style;
+				}
+				else
+				{
+					return;
+
+				}
+			}
+		</SCRIPT>
+	</HEAD>
+	
+	<BODY>
+		<DIV ID = "myText"> Change Me! </DIV>
+		
+		<P>
+			<A CLASS = "page" HREF = "javascript:moveUpDown(40);">Down</A><BR />
+			<A CLASS = "page" HREF = "javascript:moveUpDown(-40);">Up</A><BR />
+			<A CLASS = "page" HREF = "javascript:moveLeftRight(-40);">Left</A><BR />
+			<A CLASS = "page" HREF = "javascript:moveLeftRight(40);">Right</A><BR />
+		</P>
+		
+		<P>
+			<A CLASS = "page" HREF = "javascript:changeColor('orange')">Orange</A><BR />
+			<A CLASS = "page" HREF = "javascript:changeColor('green')">Green</A><BR />
+			<A CLASS = "page" HREF = "javascript:changeColor('purple')">Purple</A><BR />
+			<A CLASS = "page" HREF = "javascript:changeColor('black')">Black</A><BR />
+		</P>
+		
+		<P>
+			<A CLASS = "page" HREF = "javascript:changeStyle('italic')">Italic</A><BR />
+			<A CLASS = "page" HREF = "javascript:changeStyle('bold')">Bold</A><BR />
+			<A CLASS = "page" HREF = "javascript:changeStyle('normal')">Normal</A><BR />
+		</P>
+
+		<P>
+			<A CLASS = "page" HREF = "javascript:vanish(1)">Vanish!</A><BR />
+			<A CLASS = "page" HREF = "javascript:vanish(0)">Reappear!</A><BR />
+		</P>
+
+	</BODY>
+</html>
+	
