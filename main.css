@@ -3,7 +3,7 @@
 
 body
 {
-	background-color:#FFF;
+	background-color:#ADDD00;
 	overflow:visible;
 }
 
@@ -18,18 +18,12 @@ footer
 	margin-left:15em;
 	text-align:center;
 	font-size:.7em;
-	font-family:Times, Times New Roman;
+	font-family:Arial, "Times New Roman";
 }
 
-#title
+.title
 {
-	background-color:#FFF;
-	margin:0em;
-	position:absolute;
-	top:3em;
-	left:377px;
-	height:8em;
-	width:25em;
+	font-size: 36px;
 }
 
 #title_border
@@ -38,7 +32,7 @@ footer
 	height:5em;
 	width:30em;
 	border-style:solid;
-	border-color:#000
+	border-color:#000;
 	border:thin;
 	position:absolute;
 	top:2.3em;
@@ -63,7 +57,7 @@ footer
 .primary
 {
 	font-size: 2em;
-	font-family: "Lucida Console", Monaco, monospace;
+	font-family: monospace;
 	color:#C00;
 	text-align:left;
         margin-top:1em;
@@ -73,7 +67,7 @@ footer
 
 .secondary
 {
-	font-family:Times, Times New Roman;
+	font-family:Arial;
 	font-size:1em;
 	text-align:justify;
 }
