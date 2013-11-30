@@ -5,6 +5,7 @@ body
 {
 	background-color:#ADADAD;
 	overflow:visible;
+	height:2500px;
 }
 
 img
@@ -17,14 +18,17 @@ footer
 	text-align:center;
 	font-size:9px;
 	font-family:Arial, "Times New Roman";
+	bottom:0;
+	margin:0;
+	position: static;
 }
 
 .title
 {
 	font-size: 52px;
-    margin-top:0px;
-    text-align:center;
-    color:#ADADAD
+    	margin-top:5px;
+    	text-align:center;
+    	color:#ADADAD;
     
 }
 
@@ -37,7 +41,7 @@ footer
     margin:0;
     height:75px;
     width:100%;
-    background-color:#000000;
+    background-image:url("Top Banner.png");
     z-index:1
 }
 
@@ -57,7 +61,7 @@ footer
 #main_flow
 {
 	position:absolute;
-	top:150px;
+	top:215px;
 	left:100px;
     width:800px;
     z-index:0;
@@ -66,9 +70,8 @@ footer
 #bottom
 {
     position:absolute;
-    bottom:5px;
+    top:2500px;
     /*width:100%;*/
-    height:5px;
     width:100%
 }
 
@@ -92,7 +95,7 @@ footer
 
 .primary_text
 {
-	font-size: 36px;
+	font-size: 36pt;
 	font-family: Arial;
 	color:#C00;
 	text-align:left;
@@ -104,6 +107,6 @@ footer
 .secondary_text
 {
 	font-family:Arial;
-	font-size:12px;
+	font-size: 12pt;
 	text-align:justify;
 }
