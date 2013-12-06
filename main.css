@@ -5,7 +5,7 @@ body
 {
 	background-color:#ADADAD;
 	overflow:visible;
-	height:2500px;
+	height:800px;
 }
 
 img
@@ -39,7 +39,7 @@ footer
     left:0;
     right:0;
     margin:0;
-    height:75px;
+    height:100px;
     width:100%;
     background-image:url("Top Banner.png");
     z-index:1
@@ -61,7 +61,7 @@ footer
 #main_flow
 {
 	position:absolute;
-	top:215px;
+	top:100px;
 	left:100px;
     width:800px;
     z-index:0;
@@ -70,7 +70,7 @@ footer
 #bottom
 {
     position:absolute;
-    top:2500px;
+    top:780px;
     /*width:100%;*/
     width:100%
 }
