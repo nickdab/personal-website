@@ -3,7 +3,7 @@
 
 body
 {
-	background-color:#ADADAD;
+	background-color:#808080;
 	overflow:visible;
 	height:800px;
 }
@@ -41,7 +41,7 @@ footer
     margin:0;
     height:100px;
     width:100%;
-    background-image:url("Top Banner.png");
+    background-image:url("Pastel Purple 2 lights.png");
     z-index:1
 }
 
@@ -61,10 +61,14 @@ footer
 #main_flow
 {
 	position:absolute;
-	top:100px;
-	left:100px;
-    width:800px;
+	background:#FFFFFF;
+	top:0px;
+	left:25%;
+    width:50%;
+	height:100%;
     z-index:0;
+	box-shadow:1px 1px 5px 0px #000000;
+	/*Box-Shadow Properties: h-shadow v-shadow (blur spread color inset)*/
 }
 
 #bottom
@@ -84,13 +88,16 @@ footer
 .primary_div
 {
     position:relative;
-    left:-20px;
+    left:5px;
+	top:125px;
 }
 
 .secondary_div
 {
     position:relative;
-    left:10px;
+    left:50px;
+	top:135px;
+	width: 80%;
 }
 
 .primary_text
