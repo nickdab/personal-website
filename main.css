@@ -5,7 +5,7 @@ body
 {
 	background-color:#808080;
 	overflow:visible;
-	height:800px;
+	height:2000px;
 }
 
 img
@@ -68,10 +68,10 @@ footer
 {
 	position:absolute;
 	background:#FFFFFF;
-	top:0px;
+	top:110px;
 	left:25%;
     width:50%;
-	height:100%;
+	height:1800px;
     z-index:0;
 	box-shadow:1px 1px 5px 0px #000000;
 	/*Box-Shadow Properties: h-shadow v-shadow (blur spread color inset)*/
@@ -80,7 +80,7 @@ footer
 #bottom
 {
     position:absolute;
-    top:780px;
+    top:1990px;
     /*width:100%;*/
     width:100%
 }
