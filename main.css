@@ -23,13 +23,19 @@ footer
 	position: static;
 }
 
-.title
+#title_box
+{
+	position:relative;
+	top:125px;
+	width:100%;
+}
+
+#title_text
 {
 	font-size: 52px;
     	margin-top:5px;
     	text-align:center;
-    	color:#ADADAD;
-    
+    	color:#000000;
 }
 
 #top
