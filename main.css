@@ -26,7 +26,7 @@ footer
 #title_box
 {
 	position:relative;
-	top:125px;
+	top:25px;
 	width:100%;
 }
 
@@ -95,14 +95,14 @@ footer
 {
     position:relative;
     left:5px;
-	top:125px;
+	margin-top:50px;
 }
 
 .secondary_div
 {
     position:relative;
     left:50px;
-	top:135px;
+	margin-top:25px;
 	width: 80%;
 }
 
@@ -110,7 +110,7 @@ footer
 {
 	font-size: 36pt;
 	font-family: Arial;
-	color:#C00;
+	color:#DB4F2E;
 	text-align:left;
     margin-top: 5px;
 	margin-left: 5px;
